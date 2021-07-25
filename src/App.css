@@ -40,3 +40,12 @@
 .indent{
   margin-left: 5%;
 }
+
+input{
+  margin-left: 1.5%;
+}
+
+button:hover{
+  color: white;
+  background-color: black;
+}
